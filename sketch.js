@@ -1,5 +1,5 @@
 var x =0;
-var speed = 22;
+var speed = 200;
 
 function setup(){
     createCanvas(600,400);
